@@ -1,4 +1,4 @@
-# Wlcome to Generative-AI-Chronicles
+# Welcome to Generative-AI-Chronicles
 Generative-AI-Chronicles is your ultimate resource hub for everything related to Generative AI, covering the latest research, hands-on tutorials, industry applications, workshops, and much more. Whether you're a beginner starting your journey in AI or an experienced researcher looking to stay updated on the latest trends, this repository is tailored to meet your needs.
 
 # What You’ll Find Here 🌟
